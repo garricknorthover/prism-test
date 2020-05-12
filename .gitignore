@@ -1,0 +1,3 @@
+script.ts
+/node_modules/
+prisma/.env
